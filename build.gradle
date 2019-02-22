@@ -1,0 +1,9 @@
+task HelloGit {
+
+doLast {
+
+println "Hello Git"
+
+}
+
+}
