@@ -3,6 +3,7 @@ task HelloGit {
 doLast {
 
 println "Hello Git"
+println "Modified the file, uploading to Git"
 
 }
 
